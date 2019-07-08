@@ -1,0 +1,10 @@
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.pdb
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csprojAssemblyReference.cache
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csproj.CopyComplete
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.pdb

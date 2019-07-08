@@ -1,0 +1,5 @@
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.pdb
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans\obj\Debug\PileOfBeans.csproj.CoreCompileInputs.cache
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.dll
+C:\Users\aryder\Desktop\Developer Challenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PileOfBeans", "PileOfBeans\PileOfBeans.csproj", "{FA43343E-1B86-44F5-98FA-7A92C387854C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PileOfBeans.Test.Unit", "PileOfBeans.Test.Unit\PileOfBeans.Test.Unit.csproj", "{58F3A88B-0599-4666-AC92-7B19A230FCA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA43343E-1B86-44F5-98FA-7A92C387854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA43343E-1B86-44F5-98FA-7A92C387854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA43343E-1B86-44F5-98FA-7A92C387854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA43343E-1B86-44F5-98FA-7A92C387854C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F3A88B-0599-4666-AC92-7B19A230FCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F3A88B-0599-4666-AC92-7B19A230FCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F3A88B-0599-4666-AC92-7B19A230FCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F3A88B-0599-4666-AC92-7B19A230FCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
